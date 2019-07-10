@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-redis/redis"
-	"github.com/go-redis/redis/internal/hashtag"
+	"github.com/osencan/redis"
+	"github.com/osencan/redis/internal/hashtag"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
